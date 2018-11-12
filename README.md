@@ -1,2 +1,2 @@
 # action
-membuat game android
+belajar membuat game android
